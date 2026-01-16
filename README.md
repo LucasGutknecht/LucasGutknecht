@@ -1,9 +1,9 @@
 # Ola, seja bem-vindo ao meu perfil
 
 Leve e nada saber; mas grave e nao saber que nada se sabe.  
-Salve. Aqui adentra onde o saber nada, nada sabe.
+Salve! Aqui adentra onde o saber nada, nada sabe.
 
- Que navegemos entre o bronze e o ferro da tecnologia! 
+Que navegemos entre o bronze e o ferro da tecnologia! 
 
 ---
 
@@ -79,7 +79,7 @@ Salve. Aqui adentra onde o saber nada, nada sabe.
 
 ## Contato da Nave Mae
 
-[![Contato da Nave Mae](https://img.shields.io/badge/Contato%20da%20Nave%20M%C3%A3e-%23000000?style=for-the-badge&logo=rocket&logoColor=white)](https://cataas.com)
+[![Contato da Nave Mae](https://img.shields.io/badge/Contato%20da%20Nave%20M%C3%A3e-%23000000?style=for-the-badge&logo=rocket&logoColor=white)](https://tenor.com/en-GB/search/cat-gifs)
 
 Transmissão aberta. A nave mãe aceita sinais de qualquer frequência, desde que seja de fumaça.
 
