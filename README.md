@@ -1,4 +1,4 @@
-# Ola, ao meu perfil, bem-vindo seja! 
+# Olá, ao meu perfil, bem-vindo seja! 
 
 Leve é nada saber; mas grave é não saber que nada se sabe.  
 Salve! Aqui adentra onde o saber nada, nada sabe.
