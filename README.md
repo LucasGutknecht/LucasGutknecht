@@ -29,9 +29,11 @@ Que navegemos entre o bronze e o ferro da tecnologia!
 
 **Frameworks e Bibliotecas:**
 
-![React](https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%23000000?style=for-the-badge&logo=nodedotjs&logoColor=%23339933)
 ![Django](https://img.shields.io/badge/Django-%23000000?style=for-the-badge&logo=django&logoColor=%23092E20)
+![ScriptCase](https://img.shields.io/badge/ScriptCase-%23000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwOTVkOSIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6Ii8+PC9zdmc+&logoColor=%230095D9)
+![Nginx](https://img.shields.io/badge/Nginx-%23000000?style=for-the-badge&logo=nginx&logoColor=%23009639)
+![Apache](https://img.shields.io/badge/Apache-%23000000?style=for-the-badge&logo=apache&logoColor=%23D22128)
 
 **Banco de Dados:**
 
