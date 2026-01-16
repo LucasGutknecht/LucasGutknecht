@@ -1,4 +1,4 @@
-# Ola, seja bem-vindo ao meu perfil
+# Ola, ao meu perfil, bem-vindo seja! 
 
 Leve e nada saber; mas grave e nao saber que nada se sabe.  
 Salve! Aqui adentra onde o saber nada, nada sabe.
