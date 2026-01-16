@@ -1,6 +1,6 @@
 # Ola, ao meu perfil, bem-vindo seja! 
 
-Leve e nada saber; mas grave e nao saber que nada se sabe.  
+Leve é nada saber; mas grave é não saber que nada se sabe.  
 Salve! Aqui adentra onde o saber nada, nada sabe.
 
 Que navegemos entre o bronze e o ferro da tecnologia! 
