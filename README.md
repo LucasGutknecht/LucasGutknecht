@@ -9,10 +9,9 @@ Salve. Aqui adentra onde o saber nada, nada sabe.
 
 ## Sobre mim
 
-- Atualmente trabalhando em um projetos
-- Estudando e aprofundando conhecimentos em Rust, ARM64 assembly, TypeScript e sistemas operacionais  
-- Aberto a colaboracoes em projetos open source (principalmente se envolverem performance ou minimalismo)  
-- Gosto de compartilhar conhecimento e aprender com a comunidade (mesmo que seja so para confirmar que nada sabemos)
+- Atualmente trabalhando em um projeto super secreto ((Alienígena))
+- Estudando e aprofundando conhecimentos em Crustáceos
+- Odeio PHP(Mentira)
 
 ---
 
@@ -78,21 +77,11 @@ Salve. Aqui adentra onde o saber nada, nada sabe.
 
 ---
 
-## Projetos em Destaque
-
-| Projeto              | Descricao                                      | Tecnologias principais                  |
-|----------------------|------------------------------------------------|-----------------------------------------|
-| Nome do Projeto 1    | Breve descricao do projeto (ex: CLI tool)      | Rust, Clap                              |
-| Nome do Projeto 2    | Breve descricao do projeto (ex: web app)       | React, Node.js, TypeScript              |
-| Nome do Projeto 3    | Breve descricao do projeto (ex: API backend)   | Django, PostgreSQL                      |
-
----
-
 ## Contato da Nave Mae
 
 [![Contato da Nave Mae](https://img.shields.io/badge/Contato%20da%20Nave%20M%C3%A3e-%23000000?style=for-the-badge&logo=rocket&logoColor=white)](https://cataas.com)
 
-Transmissao aberta. A nave mae aceita sinais de qualquer frequencia, desde que seja de fumaca.
+Transmissão aberta. A nave mãe aceita sinais de qualquer frequência, desde que seja de fumaça.
 
 ---
 
