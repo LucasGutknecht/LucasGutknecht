@@ -89,6 +89,6 @@ Transmissão aberta. A nave mãe aceita sinais de qualquer frequência, desde qu
 
 <div align="center">
 
-*"When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love..."― Marcus Aurelius, Meditations"*
+*"When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love..."― Not Marcus Aurelius, aparently"*
 
 </div>
