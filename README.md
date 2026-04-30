@@ -56,14 +56,8 @@ Que navegemos entre o bronze e o ferro da tecnologia!
 
 <div align="center">
   
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasGutknecht&theme=radical)
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasGutknecht&theme=radical)
 
-</div>
-
----
-
-<div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasGutknecht&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=pt-br&title_color=58a6ff&icon_color=58a6ff" alt="Estatísticas gerais">
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGutknecht&layout=compact&theme=dark&hide_border=true&locale=pt-br&title_color=58a6ff" alt="Linguagens mais usadas">
