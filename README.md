@@ -58,8 +58,6 @@ Que navegemos entre o bronze e o ferro da tecnologia!
   
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasGutknecht&theme=radical)
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasGutknecht&theme=radical)
-
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasGutknecht&theme=radical)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasGutknecht&theme=radical&utcOffset=-3)
 
 
