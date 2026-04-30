@@ -55,8 +55,6 @@ Que navegemos entre o bronze e o ferro da tecnologia!
 ## Estatisticas do GitHub
 
 <div align="center">
-  
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasGutknecht&theme=radical)
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasGutknecht&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=pt-br&title_color=58a6ff&icon_color=58a6ff" alt="Estatísticas gerais">
 &nbsp;&nbsp;
