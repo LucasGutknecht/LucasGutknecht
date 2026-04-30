@@ -18,6 +18,7 @@ Que navegemos entre o bronze e o ferro da tecnologia!
 
 **Linguagens:**
 
+[![OCaml](https://img.shields.io/badge/OCaml-000000?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org)
 ![Rust](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=%23E57324)
 ![Java](https://img.shields.io/badge/Java-%23000000?style=for-the-badge&logo=java&logoColor=%23ED8B00)
 ![C](https://img.shields.io/badge/C-%23000000?style=for-the-badge&logo=c&logoColor=%2300599C)
