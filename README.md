@@ -71,9 +71,7 @@ Estatísticas do GitHub
 ## Estatisticas do GitHub
 
 <div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasGutknecht&theme=radical)
-
+  
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasGutknecht&theme=radical)
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasGutknecht&theme=radical)
 
