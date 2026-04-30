@@ -67,15 +67,6 @@ Que navegemos entre o bronze e o ferro da tecnologia!
 
 ---
 
-## Grafico de Atividades
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasGutknecht&theme=react-dark&hide_border=true)
-
-</div>
-
----
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasGutknecht&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=pt-br&title_color=58a6ff&icon_color=58a6ff" alt="Estatísticas gerais">
 &nbsp;&nbsp;
@@ -85,7 +76,19 @@ Que navegemos entre o bronze e o ferro da tecnologia!
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasGutknecht&theme=dark&hide_border=true&locale=pt_BR&date_format=d%20M%5B%20Y%5D" alt="Sequência de contribuições">
 </div>
+
 ---
+
+## Grafico de Atividades
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasGutknecht&theme=react-dark&hide_border=true)
+
+</div>
+
+---
+
 
 ## Contato da Nave Mae
 
